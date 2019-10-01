@@ -1,6 +1,7 @@
 # Name
 # Rock Paper Scissors
 # rps.py
+# added comment for github
 import random 
 # Varibles
 pScore = 0
