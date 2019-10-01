@@ -18,7 +18,7 @@ pName = input("What is your name? ")
 
 # Score Tracker
 # Make a function
-def printScore()
+def printScore():
 
 	# Prints Score:
 	print("Score: ")
